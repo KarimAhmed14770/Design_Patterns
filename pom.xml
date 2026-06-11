@@ -18,5 +18,7 @@
 
     <modules>
         <module>creational_patterns/builder_pattern</module>
+        <module>creational_patterns/simple_Factory_not_a_pattern</module>
+        <module>creational_patterns/Factory_Method_pattern</module>
     </modules>
 </project>
