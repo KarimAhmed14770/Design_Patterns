@@ -40,6 +40,7 @@ To demonstrate mastery over both structural approaches, this module contains han
 This challenge implements a strict, thread-safe, immutable financial ledger record. It utilizes an internal static gatekeeper to run validation invariants before allowing an object to occupy memory space.
 * 📋 [View Challenge 1 Specifications & Business Rules](./Challenge1_specs.md)
 * 🛠️ [View Solution Architecture & Deep-Dive Breakdown](./Challenge1_solution.md)
+* 💻 [Solution Source Code of challenge 1](./src/main/java/com/karim/builder/FinancialTransaction.java)
 
 ### ⏳ Challenge 2: [Coming Soon] (Multiple Builders Interface Approach)
 *This section will hold the requirements, specification tickets, and polymorphic interface-driven solutions for variant representations.*
