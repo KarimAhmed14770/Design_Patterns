@@ -36,3 +36,6 @@ To see the exact difference in how these two structures handle growth, look at t
 
 * **In a Simple Factory:** A single concrete class holds all the routing logic. If a new type is added, the code inside that single factory class must be modified.
 * **In the Factory Method Pattern:** The factory logic itself is abstract. Adding a new type means creating a brand-new factory subclass, leaving all existing code files completely untouched.
+
+## 🔍example of simple factory method 
+[simple factory method example](./simple_factory_example.md)
