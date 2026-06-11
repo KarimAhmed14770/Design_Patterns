@@ -39,7 +39,9 @@ To demonstrate mastery over both structural approaches, this module contains han
 ### 🏆 Challenge 1: The Immutable Ingestion Engine (Static Inner Approach)
 This challenge implements a strict, thread-safe, immutable financial ledger record. It utilizes an internal static gatekeeper to run validation invariants before allowing an object to occupy memory space.
 * 📋 [View Challenge 1 Specifications & Business Rules](./Challenge1_specs.md)
-* 🛠️ [View Solution Architecture & Deep-Dive Breakdown](./Challenge1_solution.md)
+* 🛠️ [View Solution Architecture & Deep-Dive Breakdown of challenge 1](./Challenge1_solution.md)
+* 📋 [View Challenge 2 Specifications](./Challenge2_specs.md)
+* 🛠️ [View Solution notes of challenge 2](./Challenge1_solution.md)
 * 💻 [Solution Source Code of challenge 1](./src/main/java/com/karim/builder/FinancialTransaction.java)
 
 ### ⏳ Challenge 2: [Coming Soon] (Multiple Builders Interface Approach)
